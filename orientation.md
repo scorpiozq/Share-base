@@ -7,6 +7,7 @@
   如果在意的是用户如何花钱，以及购物特征，那就应该完全排除用户的个人信息，仅用购买相关的数据来进行聚类，然后在聚类之后的每个簇对簇中的用户个人情况进行分析
 - ### 可参考教程：  
 https://www.zhihu.com/question/19982667/answer/347473295  
+https://zhuanlan.zhihu.com/p/53207761  
 https://www.jianshu.com/p/50cb85285af0  
 https://www.cnblogs.com/zy230530/p/7029025.html  
 机器学习实战第十章  
